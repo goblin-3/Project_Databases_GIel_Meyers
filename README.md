@@ -23,10 +23,10 @@ In het model online-uitleensysteem krijgt de gebruiker bij zijn eerste bezoek ee
 
 Als de gebruiker eenmaal ingelogd is, wordt hem het volgende scherm aangeboden:
 
-Bovenaan verschijnt de Username “Hello” “Username”
+
 Als eerste filter verschijnt de vraag: Welke console? Hier krijgt de User een keuzelijst aangeboden van de mogelijke consoles die voorhanden zijn met inbegrip van de PC-games.
 Vervolgens krijgt hij een lijst van spellen te zien die enkel voor de gekozen console geschikt zijn. Daar kan de gebruiker één spel van kiezen. Na de keuze verschijnt de prijs naast het veld: ‘Pay’. We werken dit item niet verder uit. 
-Als de gebruiker nog een tweede spel wil uitlenen selecteert hij de knop ‘Another Game’. Zo komt hij terug bij het beginscherm waar hij zijn console kan kiezen. Als de gebruiker geen verdere games wil uitlenen, selecteert hij de END-knop waarbij de sessie afgesloten wordt. Hierna verschijnt de melding ‘Thank you, “Username”!).
+Als de gebruiker nog een tweede spel wil uitlenen selecteert hij de knop ‘rent’opnieuw. Zo komt hij terug bij het beginscherm waar hij zijn console kan kiezen. Als de gebruiker geen verdere games wil uitlenen, selecteert hij de END-knop waarbij de sessie afgesloten wordt. 
 
 De login voor de Employee en de Admin verloopt gelijkaardig. Enkel De Administrator of “Admin” maakt de gebruikers ‘Admin’ en ‘Employee’ aan. Hiervoor zijn bij het signup scherm de bijkomende Checkboxen R Employee en R Admin voorzien.
 Dit is nodig om ervoor te zorgen dat alleen de Admin en Employee toegang krijgen tot de input van de tabellen: Game, Misc, Publisher, Genre, Console, Type, Musea, Warehouse. Dit vermindert de foutenlast en voorkomt het bijhouden van dubbele gegevens. De gebruiker heeft hier geen toegang.
